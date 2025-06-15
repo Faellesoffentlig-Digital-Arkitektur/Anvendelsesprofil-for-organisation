@@ -1,7 +1,3 @@
----
-title: Basisprofil for organisation
----
-
 # Om profilen
 
 Basisprofilen for organisation er en anvendelsesprofil med fokus på
@@ -78,17 +74,17 @@ form hvor det er muligt. I en kompakt form er navnerum erstattet af et
 præfiks, eksempelvis som illustreret her:
 
 > Hvis navnerummet: http://www.w3.org/ns/org#
->
+> 
 > tildeles præfiks: org
->
+> 
 > så kan URIen: http://www.w3.org/ns/org#OrganizationalUnit
->
+> 
 > angives i kompakt form som: org:OrganizationalUnit
 
 Præfiks og navnerum for de anvendte vokabularer er listet herunder.
 
 | **præfiks** | **navnerum**                                                                                | **titel**                            |
-|-------------|---------------------------------------------------------------------------------------------|--------------------------------------|
+| ----------- | ------------------------------------------------------------------------------------------- | ------------------------------------ |
 | rdf         | [http://www.w3.org/1999/02/22-rdf-syntax-ns#]{.underline}                                   | Resource Description Framework       |
 | rdfs        | [[http://www.w3.org/2000/01/rdf-schema#]{.underline}](http://www.w3.org/2000/01/rdf-schema) | RDF Schema                           |
 | owl         | [[http://www.w3.org/2002/07/owl#]{.underline}](http://www.w3.org/2002/07/owl)               | Web Ontology Language                |
@@ -110,7 +106,7 @@ anvendes i andre sammenhænge end den de her er anvendt i.
 De nyoprettede er:
 
 | **præfiks** | **navnerum**                                             | **titel**                         |
-|-------------|----------------------------------------------------------|-----------------------------------|
+| ----------- | -------------------------------------------------------- | --------------------------------- |
 | ovx         | https://data.gov.dk/model/core/orgextension/             | Organization vocabulary extension |
 | fot         | https://data.gov.dk/concept/core/formalorganizationtype/ | Formal organization type          |
 | out         | https://data.gov.dk/concept/core/organisationalunittype/ | Organizational unit type          |
@@ -119,23 +115,23 @@ De nyoprettede er:
 
 ##### Footnotes
 
-1.  [[https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/Brugerbehov%20til%20F%C3%A6llesoffentlig%20standard%20for%20Organisation%20%E2%80%93%202022-02-18_KL20221014.docx]{.underline}](https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/Brugerbehov%20til%20F%C3%A6llesoffentlig%20standard%20for%20Organisation%20%E2%80%93%202022-02-18_KL20221014.docx)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-1-3db06bca7ff73be10a1f53a4c49459ab)
+1. [[https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/Brugerbehov%20til%20F%C3%A6llesoffentlig%20standard%20for%20Organisation%20%E2%80%93%202022-02-18_KL20221014.docx]{.underline}](https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/Brugerbehov%20til%20F%C3%A6llesoffentlig%20standard%20for%20Organisation%20%E2%80%93%202022-02-18_KL20221014.docx)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-1-3db06bca7ff73be10a1f53a4c49459ab)
 
-2.  [[https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/FOOM%20-%20f%C3%A6llesoffentligOrganisationsmodel%20v07.docx]{.underline}](https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/FOOM%20-%20f%C3%A6llesoffentligOrganisationsmodel%20v07.docx)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-2-3db06bca7ff73be10a1f53a4c49459ab)
+2. [[https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/FOOM%20-%20f%C3%A6llesoffentligOrganisationsmodel%20v07.docx]{.underline}](https://github.com/digst/ORG-AP-DK/blob/main/releases/v.1.0/business/FOOM%20-%20f%C3%A6llesoffentligOrganisationsmodel%20v07.docx)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-2-3db06bca7ff73be10a1f53a4c49459ab)
 
-3.  [[https://www.w3.org/TR/vocab-org/]{.underline}](https://www.w3.org/TR/vocab-org/)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-3-3db06bca7ff73be10a1f53a4c49459ab)
+3. [[https://www.w3.org/TR/vocab-org/]{.underline}](https://www.w3.org/TR/vocab-org/)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-3-3db06bca7ff73be10a1f53a4c49459ab)
 
-4.  [[https://semiceu.github.io/CPOV/releases/2.00/]{.underline}](https://semiceu.github.io/CPOV/releases/2.00/)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-4-3db06bca7ff73be10a1f53a4c49459ab)
+4. [[https://semiceu.github.io/CPOV/releases/2.00/]{.underline}](https://semiceu.github.io/CPOV/releases/2.00/)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-4-3db06bca7ff73be10a1f53a4c49459ab)
 
-5.  [[https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/]{.underline}](https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-5-3db06bca7ff73be10a1f53a4c49459ab)
+5. [[https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/]{.underline}](https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00/)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-5-3db06bca7ff73be10a1f53a4c49459ab)
 
-6.  [[https://semiceu.github.io/ADMS/releases/2.00/]{.underline}](https://semiceu.github.io/ADMS/releases/2.00/)
-    [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-6-3db06bca7ff73be10a1f53a4c49459ab)
+6. [[https://semiceu.github.io/ADMS/releases/2.00/]{.underline}](https://semiceu.github.io/ADMS/releases/2.00/)
+   [[↩]{.underline}](https://github.com/digst/Basisanvendelsesprofil-for-organisation/blob/main/Basisanvendelsesprofil/2)%20Profilens%20udgangspunkt%20og%20tilblivelse.md#user-content-fnref-6-3db06bca7ff73be10a1f53a4c49459ab)
 
 ## Beskrivelse af anvendte vokabularelementer
 
@@ -227,7 +223,7 @@ URI kun defineres i det vokabular der definerer elementet, samt at
 multiplicitet for en egenskab kun defineres i profiler.
 
 |                                     | **Vokabular**       | **Profil** |
-|-------------------------------------|---------------------|------------|
+| ----------------------------------- | ------------------- | ---------- |
 | URI                                 | Skal altid udfyldes |            |
 | Term (= rdfs:label)                 |                     |            |
 | Foretrukken term (= skos:prefLabel) |                     |            |
@@ -321,7 +317,7 @@ Følgende metadata anvendes kun til beskrivelse af klasser:
 </table>
 
 | **rdfs:isDefinedBy**                                                                                                                                                                                                                                                                                                       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Det er god praksis at angive hvor et element har sin oprindelige definition fra. Dette angives oftest ved brug af metadata-egenskaben rdfs:isDefinedBy. Da 'isDefinedBy' reelt blot angiver navneområdet for elementet -- og derfor kan findes ved at følge dette -- så er den oplysning af undladt i anvendelsesprofilen. |
 
 ## Eksempler i dokumentet
@@ -406,8 +402,8 @@ Til a repræsentere koderne anvendt som referencer defineres følgende
 egenskaber relateret til de tre identifikatorer cvr-nummer, p-nummer og
 myndighedskode:
 
-| **Beskrivelse**                         | **Forkortet URI**      | **URI (foreslået)**                                             |
-|-----------------------------------------|------------------------|-----------------------------------------------------------------|
+| **Beskrivelse**                         | **Forkortet URI**      | **URI (foreslået)**                                               |
+| --------------------------------------- | ---------------------- | ----------------------------------------------------------------- |
 | reference til objekt med cvr-nummer     | ovx:cvrCodeReference   | https://data.gov.dk/model/core/­org-extension/­cvrCodeReference   |
 | reference til objekt med p-nummer       | ovx:pUnitCodeReference | https://data.gov.dk/model/core/­org-extension/­pUnitCodeReference |
 | reference til objekt med myndighedskode | ovx:authCodeReference  | https://data.gov.dk/model/core/­org-extension/­authCodeReference  |
@@ -535,7 +531,7 @@ height="1.7043471128608925in"}
 ##### Vokabularets definition og beskrivelser
 
 | URI        | <http://www.w3.org/ns/adms#identifier>             |
-|------------|----------------------------------------------------|
+| ---------- | -------------------------------------------------- |
 | Term       | identifikator                                      |
 | Kommentar  | Linker en ressource til en adms:Identifier-klasse. |
 | Domæne     | rdfs:Resource                                      |
@@ -544,7 +540,7 @@ height="1.7043471128608925in"}
 ##### Profilens restriktioner og beskrivelser
 
 | Foretrukken term | identifikator                                                              |
-|------------------|----------------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------------- |
 | Definition       | Linker en ressource til en adms:Identifier-klasse                          |
 | Domæne           | org:FormalOrganization eller org:OrganizationalUnit eller dcterms:Location |
 | Udfaldsrum       | adms:Identifier                                                            |
@@ -558,7 +554,7 @@ height="1.6867410323709537in"}
 ##### Vokabularets definition og beskrivelser
 
 | URI       | <http://www.w3.org/ns/adms#Identifier>            |
-|-----------|---------------------------------------------------|
+| --------- | ------------------------------------------------- |
 | Term      | Identifkator                                      |
 | Kommentar | Dette er baseret på UN/CEFACT Identifier-klassen. |
 
@@ -608,7 +604,7 @@ organisatoriske enheder.</td>
 ##### Vokabularets definition og beskrivelser
 
 | URI             | <http://www.w3.org/2004/02/skos/core#notation>                                                                                                                                                            |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term            | notation                                                                                                                                                                                                  |
 | Definition      | En notation, også kendt som klassifikationskode, er en streng af tegn såsom \"T58.5\" eller \"303.4833\", der bruges til entydigt at identificere et begreb inden for rammerne af et givet begrebssystem. |
 | Anvendelsesnote | Efter konvention bruges skos:notation med en typeangivet literal i objekt-positionen af en triple.                                                                                                        |
@@ -618,7 +614,7 @@ organisatoriske enheder.</td>
 ##### Profilens restriktioner og beskrivelser
 
 | Foretrukken term | kode                                                                                                            |
-|------------------|-----------------------------------------------------------------------------------------------------------------|
+| ---------------- | --------------------------------------------------------------------------------------------------------------- |
 | Anvendelsesnote  | En streng, der er en identifikator i sammenhæng med identifikationsskemaet, der refereres til af dens datatype. |
 | Domæne           | rdfs:Resource                                                                                                   |
 | Udfaldsrum       | rdfs:Literal                                                                                                    |
@@ -629,7 +625,7 @@ organisatoriske enheder.</td>
 ##### Vokabularets definition og beskrivelser
 
 | URI        | <http://www.w3.org/2000/01/rdf-schema#label> |
-|------------|----------------------------------------------|
+| ---------- | -------------------------------------------- |
 | Term       | betegnelse                                   |
 | Kommentar  | Et menneskelæsbart navn for emnet.           |
 | Domæne     | rdfs:Resource                                |
@@ -638,7 +634,7 @@ organisatoriske enheder.</td>
 ##### Profilens restriktioner og beskrivelser
 
 | Foretrukken term | betegnelse                                                           |
-|------------------|----------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------- |
 | Alternativ term  | schema navn                                                          |
 | Anvendelsesnote  | Navn på det skema, der blev brugt til at konstruere identifikatoren. |
 | Domæne           | adms:Identifier                                                      |
@@ -650,7 +646,7 @@ organisatoriske enheder.</td>
 ##### Vokabularets definition og beskrivelser
 
 | URI              | <http://purl.org/dc/terms/issued>                                   |
-|------------------|---------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------- |
 | Term             | udstedelsesdato                                                     |
 | Kommentar        | Dato for formel udstedelse (f.eks. offentliggørelse) af ressourcen. |
 | Domæne           | rdfs:Resource                                                       |
@@ -660,7 +656,7 @@ organisatoriske enheder.</td>
 ##### Profilens restriktioner og beskrivelser
 
 | Foretrukken term | udstedelsesdato                              |
-|------------------|----------------------------------------------|
+| ---------------- | -------------------------------------------- |
 | Anvendelsesnote  | Den dato, hvor identifikatoren blev tildelt. |
 | Domæne           | adms:Identifier                              |
 | Udfaldsrum       | xsd:date                                     |
@@ -671,7 +667,7 @@ organisatoriske enheder.</td>
 ##### Vokabularets definition og beskrivelser
 
 | URI        | <http://www.w3.org/ns/adms#schemaAgency>                     |
-|------------|--------------------------------------------------------------|
+| ---------- | ------------------------------------------------------------ |
 | Term       | skemaorganisation                                            |
 | Kommentar  | Navnet på det organisation, der har udstedt identifikatoren. |
 | Domæne     | adms:Identifier                                              |
@@ -717,7 +713,7 @@ identifikatoren.</p></td>
 ##### Vokabularets definition og beskrivelser
 
 | URI              | <http://purl.org/dc/terms/conformsTo>                                         |
-|------------------|-------------------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------------------- |
 | Term             | er i overensstemmelse med                                                     |
 | Kommentar        | En etableret standard, som den beskrevne ressource er i overensstemmelse med. |
 | Underegenskab af | dcterms:relation                                                              |
@@ -801,7 +797,7 @@ cvr-nummer, et p-nummer og myndighedskoden blive anvendt.
 ##### Tønder Kommunes cvr-nummer 29189781:
 
 | **Egenskab**         | **værdi**                 |
-|----------------------|---------------------------|
+| -------------------- | ------------------------- |
 | kode                 | 29189781\^\^id-dk:cvrCode |
 | schema navn          | Cvr-nummer                |
 | schema URI \*)       |                           |
@@ -814,7 +810,7 @@ cvr-nummer, et p-nummer og myndighedskoden blive anvendt.
 ##### Tønder Kommunes p-nummer 1003326862:
 
 | **Egenskab**         | **værdi**                     |
-|----------------------|-------------------------------|
+| -------------------- | ----------------------------- |
 | kode                 | 1003326862\^\^id-dk:pUnitCode |
 | schema navn          | P-nummer                      |
 | schema URI \*)       |                               |
@@ -826,7 +822,7 @@ cvr-nummer, et p-nummer og myndighedskoden blive anvendt.
 ##### Tønder Kommunes p-nummer myndighedskode:
 
 | **Egenskab**         | **Værdi**                          |
-|----------------------|------------------------------------|
+| -------------------- | ---------------------------------- |
 | kode                 | 0550\^\^id-dk:authCode             |
 | schema navn          | Myndighedskode                     |
 | schema URI \*)       |                                    |
@@ -958,7 +954,7 @@ height="2.686956474190726in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | http://www.w3.org/ns/org#hasUnit                                                                |
-|-----------------------|-------------------------------------------------------------------------------------------------|
+| --------------------- | ----------------------------------------------------------------------------------------------- |
 | Term                  | har enhed                                                                                       |
 | Kommentar             | Angiver en enhed, som er del af denne organisation, f.eks. en afdeling i en større organisation |
 | Domæne                | org:FormalOrganization                                                                          |
@@ -966,10 +962,10 @@ height="2.686956474190726in"}
 | Underegenskab af      | org:hasSubOrganization                                                                          |
 | Modsatrettet egenskab | org:unitOf                                                                                      |
 
-#####  Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-7}
+##### Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-7}
 
 | Foretrukken term | har enhed                                                                                       |
-|------------------|-------------------------------------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------------------------------------- |
 | Definition       | Angiver en enhed, som er del af denne organisation, f.eks. en afdeling i en større organisation |
 | Domæne           | org:FormalOrganization                                                                          |
 | Udfaldsrum       | org:OrganizationalUnit                                                                          |
@@ -980,7 +976,7 @@ height="2.686956474190726in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | <http://www.w3.org/ns/org#unitOf>                                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Term                  | enhed af                                                                                                          |
 | Kommentar             | Angiver en organisation, som denne enhed er en del af, f.eks. en afdeling inden for en større formel organisation |
 | Domæne                | org:OrganizationalUnit                                                                                            |
@@ -988,10 +984,10 @@ height="2.686956474190726in"}
 | Underegenskab af      | org:subOrganizationOf                                                                                             |
 | Modsatrettet egenskab | org:hasUnit                                                                                                       |
 
-#####  Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-8}
+##### Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-8}
 
 | Foretrukken term | enhed af                                                                                                                                 |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Definition       | Angiver en organisation, som denne enhed er en del af, f.eks. en afdeling inden for en større formel organisation                        |
 | Kommentar        | Angiver en formel organisation, som denne organisatoriske enhed er en del af, f.eks. en afdeling inden for en større formel organisation |
 | Anvendelsesnote  | En organisatorisk enhed skal altid være tilknyttet en og kun en formel organisation.                                                     |
@@ -1004,7 +1000,7 @@ height="2.686956474190726in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | https://data.gov.dk/model/core/orgextension/hasUpperUnit                        |
-|-----------------------|---------------------------------------------------------------------------------|
+| --------------------- | ------------------------------------------------------------------------------- |
 | Term                  | har øvre enhed                                                                  |
 | Definition            | Angive en enhed der er øverst i den formelle organisations hierarkiske struktur |
 | Domæne                | org:FormalOrganization                                                          |
@@ -1015,7 +1011,7 @@ height="2.686956474190726in"}
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-9}
 
 | Foretrukken term | øvre enhed i           |
-|------------------|------------------------|
+| ---------------- | ---------------------- |
 | Alternativ term  | topenhed i             |
 | Domæne           | org:OrganizationalUnit |
 | Udfaldsrum       | org:FormalOrganization |
@@ -1026,7 +1022,7 @@ height="2.686956474190726in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | https://data.gov.dk/model/core/orgextension/upperUnitOf                                                        |
-|-----------------------|----------------------------------------------------------------------------------------------------------------|
+| --------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Term                  | øvre enhed i                                                                                                   |
 | Definition            | Angivelse af den formelle organisation hvori enheden er placeret på øverste niveau i den hierarkiske struktur. |
 | Domæne                | org:OrganizationalUnit                                                                                         |
@@ -1037,7 +1033,7 @@ height="2.686956474190726in"}
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-10}
 
 | Foretrukken term | øvre enhed i           |
-|------------------|------------------------|
+| ---------------- | ---------------------- |
 | Alternativ term  | topenhed i             |
 | Domæne           | org:OrganizationalUnit |
 | Udfaldsrum       | org:FormalOrganization |
@@ -1053,7 +1049,7 @@ height="1.1739129483814523in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | <http://www.w3.org/ns/org#unitOf>                                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------|
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Term                  | enhed af                                                                                                          |
 | Kommentar             | Angiver en organisation, som denne enhed er en del af, f.eks. en afdeling inden for en større formel organisation |
 | Anvendelsesnote       | Dette er den inverse egenskab af org:hasUnit.                                                                     |
@@ -1209,7 +1205,7 @@ org:subOrganizationOf og org:linkedTo.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | https://data.gov.dk/model/core/orgextension/Relation              |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Term             | Relation                                                          |
 | Foretrukken term | Relation                                                          |
 | Definition       | Angiver to organisationer samt typen af deres indbyrdes relation. |
@@ -1221,7 +1217,7 @@ org:subOrganizationOf og org:linkedTo.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | http://www.w3.org/ns/prov#startedAtTime                                                                                                                                                                                                                                                                                                                                            |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term       | startede                                                                                                                                                                                                                                                                                                                                                                           |
 | Kommentar  | Start er, når en aktivitet anses for at være startet af en enhed, kendt som trigger. Aktiviteten eksisterede ikke før dens start. Enhver brug, generering eller ugyldiggørelse, der involverer en aktivitet, følger aktivitetens start. En start kan referere til en triggerentitet, der udløste aktiviteten, eller til en aktivitet, kendt som starter, der genererede triggeren. |
 | Domæne     | [prov:Activity](https://www.w3.org/TR/2013/REC-prov-o-20130430/#Activity)                                                                                                                                                                                                                                                                                                          |
@@ -1230,7 +1226,7 @@ org:subOrganizationOf og org:linkedTo.
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-12}
 
 | Foretrukken term | startede                                                                                                                                                                                                                                                                                                                                                                           |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Definition       | Start er, når en aktivitet anses for at være startet af en enhed, kendt som trigger. Aktiviteten eksisterede ikke før dens start. Enhver brug, generering eller ugyldiggørelse, der involverer en aktivitet, følger aktivitetens start. En start kan referere til en triggerentitet, der udløste aktiviteten, eller til en aktivitet, kendt som starter, der genererede triggeren. |
 | Anvendelsesnote  | Angiver den dato en relation mellem to organisationer blev etableret.                                                                                                                                                                                                                                                                                                              |
 | Domæne           | ovx:Relation                                                                                                                                                                                                                                                                                                                                                                       |
@@ -1242,7 +1238,7 @@ org:subOrganizationOf og org:linkedTo.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://www.w3.org/ns/prov#endedAtTime>                                                                                                                                                                                                                                                                                                                                                                           |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term       | sluttede                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Kommentar  | Slut er, når en aktivitet anses for at være afsluttet af en enhed, kendt som trigger. Aktiviteten eksisterer ikke længere efter dens afslutning. Enhver brug, generering eller ugyldiggørelse, der involverer en aktivitet, går forud for aktivitetens afslutning. En afslutning kan referere til en triggerenhed, der afsluttede aktiviteten, eller til en aktivitet, kendt som ender, der genererede triggeren. |
 | Domæne     | prov:Activity                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -1296,7 +1292,7 @@ afsluttet.</td>
 #### har relation
 
 | URI                   | https://data.gov.dk/model/core/orgextension/hasRelation           |
-|-----------------------|-------------------------------------------------------------------|
+| --------------------- | ----------------------------------------------------------------- |
 | Term                  | has relation                                                      |
 | Foretrukken term (da) | har relation                                                      |
 | Definition            | angiver en relation en organisation har til en anden organisation |
@@ -1306,7 +1302,7 @@ afsluttet.</td>
 #### relation til
 
 | URI                   | https://data.gov.dk/model/core/orgextension/relationTo                            |
-|-----------------------|-----------------------------------------------------------------------------------|
+| --------------------- | --------------------------------------------------------------------------------- |
 | Term                  | relationTo                                                                        |
 | Foretrukken term (da) | relation til                                                                      |
 | Definition            | angiver en organisation der er 'modtager' i en relation til en anden organisation |
@@ -1318,17 +1314,17 @@ afsluttet.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | http://purl.org/dc/terms/type                                                                                                                                                                                    |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term        | type                                                                                                                                                                                                             |
 | Kommentar   | Ressourcens art eller genre.                                                                                                                                                                                     |
 | Beskrivelse | Anbefalet bedste praksis er at bruge et kontrolleret ordforråd, såsom DCMI Type Vocabulary \[DCMITYPE\]. For at beskrive ressourcens filformat, fysiske medium eller dimensioner skal du bruge Format-elementet. |
 | Domæne      | rdfs:Resource                                                                                                                                                                                                    |
 | Udfaldsrum  | rdfs:Class                                                                                                                                                                                                       |
 
-#####  Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-14}
+##### Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-14}
 
 | Foretrukken term | type                                        |
-|------------------|---------------------------------------------|
+| ---------------- | ------------------------------------------- |
 | Definition       | Ressourcens art eller genre.                |
 | Anvendelsesnote  | Angiver den type af relation der er tale om |
 | Domæne           | ovx:Relation                                |
@@ -1343,7 +1339,7 @@ height="1.408695319335083in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | https://data.gov.dk/concept/core/orgrelation/OrganizationalRelationType |
-|------------------|-------------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------------- |
 | Term             | Type af organisatorisk relation                                         |
 | Foretrukken term | Type af organisatorisk relation                                         |
 | Definition       | Klassen af organisatoriske relationstyper                               |
@@ -1402,7 +1398,7 @@ rdf:PlainLiteral)</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-15}
 
 | Foretrukken term | foretrukken term               |
-|------------------|--------------------------------|
+| ---------------- | ------------------------------ |
 | Domæne           | ort:OrganizationalRelationType |
 | Udfaldsrum       | rdf:langString                 |
 | Multiplicitet    | 1 - \*                         |
@@ -1412,7 +1408,7 @@ rdf:PlainLiteral)</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | http://www.w3.org/2004/02/skos/core#definition                    |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Term             | definition                                                        |
 | Definition       | En erklæring eller formel forklaring af betydningen af et begreb. |
 | Underegenskab af | skos:note                                                         |
@@ -1422,7 +1418,7 @@ rdf:PlainLiteral)</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-16}
 
 | Foretrukken term | definition                     |
-|------------------|--------------------------------|
+| ---------------- | ------------------------------ |
 | Anvendelsesnote  | Beskrivelse af relationstypen. |
 | Domæne           | ort:OrganizationalRelationType |
 | Udfaldsrum       | rdf:langString                 |
@@ -1433,7 +1429,7 @@ rdf:PlainLiteral)</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | http://www.w3.org/2004/02/skos/core#example |
-|------------------|---------------------------------------------|
+| ---------------- | ------------------------------------------- |
 | Term             | eksempel                                    |
 | Definition       | Et eksempel på brugen af et begreb.         |
 | Underegenskab af | skos:note                                   |
@@ -1443,7 +1439,7 @@ rdf:PlainLiteral)</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-17}
 
 | Foretrukken term | eksempel                            |
-|------------------|-------------------------------------|
+| ---------------- | ----------------------------------- |
 | Definition       | En der illustrere typen af relation |
 | Domæne           | ort:OrganizationalRelationType      |
 | Udfaldsrum       | rdf:langString                      |
@@ -1815,7 +1811,7 @@ organisationen.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | <http://purl.org/dc/terms/description>                                                                                                                        |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term        | beskrivelse                                                                                                                                                   |
 | Beskrivelse | Beskrivelsen kan omfatte, men er ikke begrænset til: et abstrakt, en indholdsfortegnelse, en grafisk repræsentation eller en fritekstberetning af ressourcen. |
 | Kommentar   | En redegørelse for ressourcen.                                                                                                                                |
@@ -1874,7 +1870,7 @@ formål og arbejde</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI             | https://data.gov.dk/model/core/orgextension/productionUnitCodeReference                                                                                                                                                                                                                                                                                                                                                                                    |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term            | p-nummer-reference                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Definition      | reference til en associeret produktionsenhed i form af dennes p-nummer                                                                                                                                                                                                                                                                                                                                                                                     |
 | Anvendelsesnote | Bruges til at angive et p-nummer, der er associeret med, men ikke formelt tilhører, den formelle organisation eller organisatoriske enhed. Et 'p-nummer' identificerer et sted, en lokation hvor en virksomhed har aktivitet. Ofte ses et p-nummer dog tilknyttet direkte til en instans af 'Formel organisation' eller 'Organisatorisk enhed', hvilket formelt set ikke er korrekt. For at håndtere denne brug er egenskaben 'p-nummer-reference' dannet. |
@@ -1884,7 +1880,7 @@ formål og arbejde</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-22}
 
 | Foretrukken term | p-nummer-reference                                                                             |
-|------------------|------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------- |
 | Definition       | En repræsentation af et produktionsenhedsnummer, anvendt som reference til produktionsenheden. |
 | Domæne           | org:FormalOrganization                                                                         |
 | Udfaldsrum       | xsd:string                                                                                     |
@@ -1895,7 +1891,7 @@ formål og arbejde</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/foundingDate>                  |
-|------------|---------------------------------------------------|
+| ---------- | ------------------------------------------------- |
 | Term       | grundlæggelsesdato                                |
 | Kommentar  | Den dato, hvor denne organisation blev grundlagt. |
 | Domæne     | schema:Organization                               |
@@ -1904,7 +1900,7 @@ formål og arbejde</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-23}
 
 | URI              | <http://schema.org/foundingDate>                                  |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Foretrukken term | grundlæggelsesdato                                                |
 | Alternativ term  | oprettelsesdato                                                   |
 | Definition       | den dato organisationen blev grundlagt eller oprettet             |
@@ -1919,7 +1915,7 @@ formål og arbejde</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/dissolutionDate>        |
-|------------|--------------------------------------------|
+| ---------- | ------------------------------------------ |
 | Term       | nedlæggelsesdato                           |
 | Kommentar  | dato, hvor denne organisation blev opløst. |
 | Domæne     | schema:Organization                        |
@@ -1930,7 +1926,7 @@ formål og arbejde</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-24}
 
 | Foretrukken term | nedlæggelsesdato                                                                                                    |
-|------------------|---------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Alternativ term  | Opløsningsdato                                                                                                      |
 | Alternativ term  | ophørsdato                                                                                                          |
 | Definition       | Den dato organisationen ophører med at eksistere.                                                                   |
@@ -2002,7 +1998,7 @@ height="0.7645833333333333in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI             | <http://www.w3.org/ns/org#classification>                                                                                                                                                                                                                    |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Term            | klassifikation                                                                                                                                                                                                                                               |
 | Kommentar       | Angiver en klassifikation for denne organisation inden for et eller andet klassifikationssystem. Bemærk, at det også er tilladt for applikationer at definere underklasser af org:Organisation som et middel til at repræsentere organisatoriske kategorier. |
 | Anvendelsesnote | udvidelsesvokabularer ønsker måske at specialisere denne egenskab til at have et område svarende til et specifikt skos:ConceptScheme                                                                                                                         |
@@ -2012,7 +2008,7 @@ height="0.7645833333333333in"}
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-25}
 
 | Definition      | Angiver en klassifikation for denne organisation inden for et eller andet klassifikationssystem. |
-|-----------------|--------------------------------------------------------------------------------------------------|
+| --------------- | ------------------------------------------------------------------------------------------------ |
 | Anvendelsesnote | Bruges her til at klassificere formelle organisationer                                           |
 | Domæne          | org:FormalOrganization                                                                           |
 | Udfaldsrum      | fot:FormalOrganizationType                                                                       |
@@ -2106,7 +2102,7 @@ egenskaber.</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-26}
 
 | Foretrukken term | foretrukken term                                                          |
-|------------------|---------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------- |
 | Definition       | Den foretrukne leksikalske betegnelse for en ressource på et givet sprog. |
 | Domæne           | fot:FormalOrganizationType                                                |
 | Udfaldsrum       | rdf:langString                                                            |
@@ -2172,7 +2168,7 @@ etiketter (se skos:hiddenLabel).</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-27}
 
 | Foretrukken term | alternativ term                                 |
-|------------------|-------------------------------------------------|
+| ---------------- | ----------------------------------------------- |
 | Definition       | En alternativ leksikalsk term for en ressource. |
 | Domæne           | fot:FormalOrganizationType                      |
 | Udfaldsrum       | rdf:langString                                  |
@@ -2183,7 +2179,7 @@ etiketter (se skos:hiddenLabel).</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | <http://www.w3.org/2004/02/skos/core#definition>                  |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Term             | definition                                                        |
 | Definition       | En erklæring eller formel forklaring af betydningen af et begreb. |
 | Underegenskab af | skos:note                                                         |
@@ -2193,7 +2189,7 @@ etiketter (se skos:hiddenLabel).</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-28}
 
 | Foretrukken term | definition                                                        |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Definition       | En erklæring eller formel forklaring af betydningen af et begreb. |
 | Domæne           | fot:FormalOrganizationType                                        |
 | Udfaldsrum       | rdf:langString                                                    |
@@ -2204,7 +2200,7 @@ etiketter (se skos:hiddenLabel).</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | <http://www.w3.org/2004/02/skos/core#broader>                                                                                                  |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term                  |                                                                                                                                                |
 | Definition            | Relaterer et begreb til et begreb, der har en mere generel betydning                                                                           |
 | Kommentar             | Efter konvention bruges skos:broader kun til at erklære en umiddelbar (dvs. direkte) hierarkisk forbindelse mellem to konceptuelle ressourcer. |
@@ -2216,7 +2212,7 @@ etiketter (se skos:hiddenLabel).</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-29}
 
 | Foretrukken term | har bredere                                                          |
-|------------------|----------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------- |
 | Definition       | Relaterer et begreb til et begreb, der har en mere generel betydning |
 | Domæne           | fot:FormalOrganizationType                                           |
 | Udfaldsrum       | fot:FormalOrganizationType                                           |
@@ -2410,7 +2406,7 @@ klasse og egenskaber til identifikation'
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | <http://www.w3.org/2004/02/skos/core#prefLabel>                                                                                                                                                                         |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term             | foretrukken term                                                                                                                                                                                                        |
 | Foretrukken term | Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.                                                                                                                                               |
 | Kommentar        | En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag. Range for skos:prefLabel er klassen af RDF 'plain literals'. skos:prefLabel, skos:altLabel, og skos:hiddenLabel er parvis disjunkte egenskaber. |
@@ -2476,7 +2472,7 @@ af organisationen</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | <http://www.w3.org/2004/02/skos/core#altLabel>                                                                                                                                                                                        |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Foretrukken term | alternativ term                                                                                                                                                                                                                       |
 | Definition       | En alternativ leksikalsk term for en ressource.                                                                                                                                                                                       |
 | Kommentar        | Range for skos:altLabel er klassen af RDF \'plain literals\'. skos:prefLabel, skos:altLabel, og skos:hiddenLabel er parvis disjunkte egenskaber.                                                                                      |
@@ -2533,7 +2529,7 @@ den organisatoriske enhed.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | <http://purl.org/dc/terms/description>                                                                                                                        |
-|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term        | beskrivelse                                                                                                                                                   |
 | Beskrivelse | Beskrivelsen kan omfatte, men er ikke begrænset til: et abstrakt, en indholdsfortegnelse, en grafisk repræsentation eller en fritekstberetning af ressourcen. |
 | Kommentar   | En redegørelse for ressourcen.                                                                                                                                |
@@ -2588,7 +2584,7 @@ organisationsenhedens formål og arbejde</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI             | <http://schema.org/foundingDate>      |
-|-----------------|---------------------------------------|
+| --------------- | ------------------------------------- |
 | Term            | grundlæggelsesdato                    |
 | Alternativ term | oprettelsesdato                       |
 | Kommentar       | den dato organisationen blev oprettet |
@@ -2598,7 +2594,7 @@ organisationsenhedens formål og arbejde</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-34}
 
 | Foretrukken term | grundlæggelsesdato                                                                                                                                                                                  |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Anvendelsesnote  | Anvendt i denne sammenhæng angiver egenskaben den dato hvorpå den organisatoriske enhed blev oprettet. I schema.org anvendes termen 'organisation' bredt og dækker også over 'organisatorisk enhed' |
 | Domæne           | org:OrganizationalUnit                                                                                                                                                                              |
 | Udfaldsrum       | xsd:date                                                                                                                                                                                            |
@@ -2609,7 +2605,7 @@ organisationsenhedens formål og arbejde</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/dissolutionDate>  |
-|------------|--------------------------------------|
+| ---------- | ------------------------------------ |
 | Term       | nedlæggelsesdato                     |
 | Kommentar  | den dato organisationen blev nedlagt |
 | Domæne     | schema:Organization                  |
@@ -2618,7 +2614,7 @@ organisationsenhedens formål og arbejde</td>
 ##### Profilens restriktioner og beskrivelser {#profilens-restriktioner-og-beskrivelser-35}
 
 | Foretrukken term | nedlæggelsesdato                                                                                                                                                                          |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Alternativ term  | opløsningsdato                                                                                                                                                                            |
 | Kommentar        | nedlæggelsesdatoen skal være lig med eller senere end oprettelsesdatoen                                                                                                                   |
 | Anvendelsesnote  | . Anvendt i denne sammenhæng angiver den dato hvorpå den organisatoriske enhed blev nedlagt. I schema.org anvendes termen 'organisation' bredt og dækker også over 'organisatorisk enhed' |
@@ -2637,7 +2633,7 @@ ikke er korrekt. For at håndtere denne brug er egenskaben
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | https://data.gov.dk/model/core/orgextension/productionUnitCodeReference                       |
-|------------|-----------------------------------------------------------------------------------------------|
+| ---------- | --------------------------------------------------------------------------------------------- |
 | Term       | p-nummer-reference                                                                            |
 | Definition | En repræsentation af et produktionsenhedsnummer, anvendt som reference til produktionsenheden |
 | Domæne     | rdfs:Resource                                                                                 |
@@ -2646,7 +2642,7 @@ ikke er korrekt. For at håndtere denne brug er egenskaben
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-36}
 
 | Foretrukken term | p-nummer-reference     |
-|------------------|------------------------|
+| ---------------- | ---------------------- |
 | Domæne           | org:OrganizationalUnit |
 | Udfaldsrum       | xsd:string             |
 | Multiplicitet    | 0 - \*                 |
@@ -2676,7 +2672,7 @@ height="0.8173906386701663in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://www.w3.org/ns/org#classification>                                                                                                                                                                                                                                                                                                                                                                                    |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term       | klassifikation                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Kommentar  | Angiver en klassifikation for denne Organisation inden for et klassifikationsskema. Udvidelsesvokabularer ønsker måske at specialisere denne egenskab til at have et område svarende til et specifikt \'skos:ConceptScheme\'. Denne egenskab er under diskussion og kan blive revideret eller fjernet - i mange tilfælde kategoriseres organisationer bedst ved at definere et underklassehierarki i et udvidelsesvokabular. |
 | Domæne     | org:Organization                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -2787,7 +2783,7 @@ OrganizationalUnitType</th>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | <http://www.w3.org/2004/02/skos/core#prefLabel>                                                                                                                                                                        |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term             | foretrukken term                                                                                                                                                                                                       |
 | Definition       | Den foretrukne leksikalske betegnelse for en ressource på et givet sprog.                                                                                                                                              |
 | Kommentar        | En ressource har ikke mere end én værdi af skos:prefLabel pr. sprogtag. Range for skos:prefLabel er klassen af RDF 'plain literals'. skos:prefLabel, skos:altLabel og skos:hiddenLabel er parvis disjunkte egenskaber. |
@@ -2798,7 +2794,7 @@ OrganizationalUnitType</th>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-38}
 
 | Foretrukken term | foretrukken term                                                                   |
-|------------------|------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------- |
 | Anvendelsesnote  | Den foretrukne leksikalske betegnelse for en organisationstypen på et givet sprog. |
 | Anvendelsesnote  | Bruges til at angive den organisatoriske enhedstypes foretrukne navn.              |
 | Domæne           | rdfs:Resource                                                                      |
@@ -2863,7 +2859,7 @@ flertals-/entalsformer</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-39}
 
 | Foretrukken term | alternativ term                                                                                      |
-|------------------|------------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
 | Definition       | En alternativ leksikalsk term for den organisatoriske enhedstype                                     |
 | Anvendelsesnote  | Bruges til at angive et accepteret - men ikke foretrukkent - navn for den organisatoriske enhedtype. |
 | Domæne           | rdfs:Resource                                                                                        |
@@ -2875,7 +2871,7 @@ flertals-/entalsformer</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI              | <http://www.w3.org/2004/02/skos/core#definition>                  |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Term             | definition                                                        |
 | Definition       | En erklæring eller formel forklaring af betydningen af et begreb. |
 | Underegenskab af | skos:note                                                         |
@@ -2885,7 +2881,7 @@ flertals-/entalsformer</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-40}
 
 | Foretrukken term | definition                                                        |
-|------------------|-------------------------------------------------------------------|
+| ---------------- | ----------------------------------------------------------------- |
 | Definition       | En erklæring eller formel forklaring af betydningen af et begreb. |
 | Domæne           | out:OrganizationalUnitType                                        |
 | Udfaldsrum       | rdf:langString                                                    |
@@ -2896,7 +2892,7 @@ flertals-/entalsformer</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI                   | <http://www.w3.org/2004/02/skos/core#broader>                                                                                                  |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term                  | har bredere                                                                                                                                    |
 | Definition            | Relaterer et begreb til et begreb, der har en mere generel betydning                                                                           |
 | Kommentar             | Efter konvention bruges skos:broader kun til at erklære en umiddelbar (dvs. direkte) hierarkisk forbindelse mellem to konceptuelle ressourcer. |
@@ -2908,7 +2904,7 @@ flertals-/entalsformer</td>
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-41}
 
 | Foretrukken term | har bredere                                                          |
-|------------------|----------------------------------------------------------------------|
+| ---------------- | -------------------------------------------------------------------- |
 | Definition       | Relaterer et begreb til et begreb, der har en mere generel betydning |
 | Domæne           | out:OrganizationalUnitType                                           |
 | Udfaldsrum       | out:OrganizationalUnitType                                           |
@@ -3266,7 +3262,7 @@ af kontaktpunkt.</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-45}
 
 | Foretrukken term | kontakformål                               |
-|------------------|--------------------------------------------|
+| ---------------- | ------------------------------------------ |
 | Definition       | Angiver det specifikke kontaktpunktsformål |
 | Domæne           | schema:ContactPoint                        |
 | Udfaldsrum       | rdf:langString                             |
@@ -3277,7 +3273,7 @@ af kontaktpunkt.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI       | <http://www.w3.org/1999/02/22-rdf-syntax-ns#comment> |
-|-----------|------------------------------------------------------|
+| --------- | ---------------------------------------------------- |
 | Term      | kommentar                                            |
 | Kommentar | En beskrivelse af den pågældenderessource.           |
 
@@ -3345,7 +3341,7 @@ forhold til en specifik kontakttype.</p></td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | http://purl.org/dc/terms/type                                                                                                                                                                                    |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term        | type                                                                                                                                                                                                             |
 | Beskrivelse | Anbefalet bedste praksis er at bruge et kontrolleret ordforråd, såsom DCMI Type Vocabulary \[DCMITYPE\]. For at beskrive ressourcens filformat, fysiske medium eller dimensioner skal du bruge Format-elementet. |
 | Kommentar   | Ressourcens art eller genre.                                                                                                                                                                                     |
@@ -3415,7 +3411,7 @@ height="1.6552001312335958in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI            | https://data.gov.dk/concept/core/contactinformation/ContactMethodType |
-|----------------|-----------------------------------------------------------------------|
+| -------------- | --------------------------------------------------------------------- |
 | Term           | Type af kontaktform                                                   |
 | Definition     | Klassifikationsklasse indeholdende mulige kontaktformer.              |
 | Underklasse af | skos:Concept                                                          |
@@ -3423,7 +3419,7 @@ height="1.6552001312335958in"}
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-48}
 
 | Foretrukken term | Kontaktform                                                                                                                                                                                                                                                                                                                                                                          |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Definition       | Klassifikationsklasse indeholdende mulige kontaktformer                                                                                                                                                                                                                                                                                                                              |
 | Definition       | anvendes til at klassificere de forskellige typer af kontaktpunkter                                                                                                                                                                                                                                                                                                                  |
 | Kommentar        | Kontaktform vil - af den nedsatte redaktionsgruppe - blive vedligeholdt kontinuerligt. Som en del af det arbejde vil koordinering med eksisterende, kendte og aktivt anvendte registres beskrivelse af kontaktformer blive anvendt som input til basisprofilens kontaktformer. Basisprofilens kontaktformer skal kunne dække alle relevante kontaktformer fra og til organisationer. |
@@ -3441,7 +3437,7 @@ height="5.034782370953631in"}
 ##### *Vokabularets definition og beskrivelser*
 
 | URI               | https://schema.org/hoursAvailable                                                     |
-|-------------------|---------------------------------------------------------------------------------------|
+| ----------------- | ------------------------------------------------------------------------------------- |
 | Term              | åbningstid (eller evt. tilgængeligt tidsrum)                                          |
 | Kommentar         | De timer, hvor denne service eller kontakt er tilgængelig.                            |
 | Domæne inkluderer | schema:LocationFeatureSpecification eller schema:ContactPoint eller schema:Service    |
@@ -3502,7 +3498,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | <http://schema.org/OpeningHoursSpecification>                                                                                                                                                                                                                                                                                                |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term        | Specifikation af åbningstider                                                                                                                                                                                                                                                                                                                |
 | Kommentar   | En struktureret værdi, der giver information om åbningstiderne for et sted eller en bestemt tjeneste inde på et sted. Stedet er åbent, hvis egenskaben 'opens' er angivet og lukket ellers. Hvis værdien for egenskaben 'closes' er mindre end værdien for 'opens' egenskaben, så antages timeintervallet at strække sig over den næste dag. |
 | Underklasse | schema:StructuredValue                                                                                                                                                                                                                                                                                                                       |
@@ -3510,7 +3506,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-50}
 
 | Foretrukken term | Specifikation af åbningstider                                                  |
-|------------------|--------------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------------ |
 | Definition       | information om åbningstider som en del af beskrivelsen for en kontaktoplysning |
 
 #### åbner
@@ -3518,7 +3514,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/opens>                                                      |
-|------------|--------------------------------------------------------------------------------|
+| ---------- | ------------------------------------------------------------------------------ |
 | Term       | åbner                                                                          |
 | Definition | det tidspunkt lokationen eller tjenesten åbner på den eller de angivne ugedage |
 | Domæne     | schema:OpeningHoursSpecification                                               |
@@ -3560,7 +3556,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/closes>                                             |
-|------------|------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------- |
 | Term       | lukker                                                                 |
 | Kommentar  | Stedets eller tjenestens lukketid på den eller de givne dag(e) i ugen. |
 | Domæne     | schema:OpeningHoursSpecification                                       |
@@ -3569,7 +3565,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-52}
 
 | Foretrukken term | lukker                                                                            |
-|------------------|-----------------------------------------------------------------------------------|
+| ---------------- | --------------------------------------------------------------------------------- |
 | Definition       | Stedets eller tjenestens lukketid på den eller de givne dag(e) i ugen.            |
 | Anvendelsesnote  | Lukketid for den kontakt der repræsenteres i den kvalificerede kontaktinformation |
 | Domæne           | schema:OpeningHoursSpecification                                                  |
@@ -3581,7 +3577,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/validFrom>                                                                                                                                                                                                |
-|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term       | gælder fra                                                                                                                                                                                                                   |
 | Kommentar  | Den dato, hvor værdien bliver gyldig.                                                                                                                                                                                        |
 | Domæne     | schema:Permit eller schema:Certification eller schema:MonetaryAmount eller schema:Offer eller schema:OpeningHoursSpecification eller schema:LocationFeatureSpecification eller schema:Demand eller schema:PriceSpecification |
@@ -3590,7 +3586,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-53}
 
 | Foretrukken term | gælder fra                                                         |
-|------------------|--------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------ |
 | Definition       | Den dato, hvor værdien bliver gyldig                               |
 | Anvendelsenote   | Den dato, hvor den kvalificerede kontaktinformation bliver gyldig. |
 | Domæne           | schema:OpeningHoursSpecification                                   |
@@ -3602,7 +3598,7 @@ aktuelt ikke er informationer om tidspunkter.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/validThrough>                                                                                                                                                                      |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Term       | gælder indtil                                                                                                                                                                                         |
 | Domæne     | schema:PriceSpecification eller schema:MonetaryAmount eller schema:JobPosting eller schema:Offer eller schema:OpeningHoursSpecification eller schema:LocationFeatureSpecification eller schema:Demand |
 | Udfaldsrum | schema:DateTime eller schema:Date                                                                                                                                                                     |
@@ -3652,7 +3648,7 @@ ugyldig.</td>
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | <http://schema.org/dayOfWeek>                                                |
-|------------|------------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------------- |
 | Term       | ugedag                                                                       |
 | Kommentar  | Den ugedag, som disse åbningstider er gældende for.                          |
 | Domæne     | schema:OpeningHoursSpecification eller schema:EducationalOccupationalProgram |
@@ -3661,7 +3657,7 @@ ugyldig.</td>
 ##### *Profilens restriktioner og beskrivelser* {#profilens-restriktioner-og-beskrivelser-55}
 
 | Foretrukken term | ugedag                               |
-|------------------|--------------------------------------|
+| ---------------- | ------------------------------------ |
 | Definition       | den ugedag åbningstiderne gælder for |
 | Domæne           | schema:OpeningHoursSpecification     |
 | Udfaldsrum       | schema:DayOfWeek                     |
@@ -3684,7 +3680,7 @@ dage'.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI         | <http://schema.org/DayOfWeek>                                                                                                                                                                                                                                                                                                                          |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Term        | Ugedag                                                                                                                                                                                                                                                                                                                                                 |
 | Kommentar   | Ugedagen, bruges eksempelvis til at angive, hvilken dag åbningstiderne for en OpeningHoursSpecification refererer til. Oprindeligt blev URLer fra 'GoodRelations' brugt (til 'Monday', 'Tuesday', 'Wednesday', 'Thursday' 'Friday', 'Saturday', 'Sunday' plus en særlig post til 'PublicHolidays'; disse er nu blevet integreret direkte i schema.org. |
 | Underklasse | schema:Enumeration                                                                                                                                                                                                                                                                                                                                     |
@@ -3694,7 +3690,7 @@ dage'.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | http://www.w3.org/2000/01/rdf-schema#label |
-|------------|--------------------------------------------|
+| ---------- | ------------------------------------------ |
 | Term       | betegnelse                                 |
 | Kommentar  | et menneskelæsbart navn for noget          |
 | Domæne     | rdfs:Resource                              |
@@ -3703,7 +3699,7 @@ dage'.
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-56}
 
 | Foretrukken term | betegnelse                                                                                                       |
-|------------------|------------------------------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Definition       | et menneskelæsbart navn for noget                                                                                |
 | Kommentar        | Af schema.org er ugedagene navngivet på engelsk. Den navngivning suppleres med en tilsvarende dansk navngivning. |
 | Anvendelsesnote  | Bruges til at angive ugedagens navn.                                                                             |
@@ -3716,7 +3712,7 @@ dage'.
 ##### *Vokabularets definition og beskrivelser*
 
 | URI        | http://www.w3.org/2000/01/rdf-schema#comment |
-|------------|----------------------------------------------|
+| ---------- | -------------------------------------------- |
 | Term       | kommentar                                    |
 | Kommentar  | En beskrivelse af emneressourcen.            |
 | Domæne     | rdfs:Resource                                |
@@ -3725,7 +3721,7 @@ dage'.
 ##### Profilens restriktioner og beskrivelser  {#profilens-restriktioner-og-beskrivelser-57}
 
 | Foretrukken term | kommentar                         |
-|------------------|-----------------------------------|
+| ---------------- | --------------------------------- |
 | Definition       | En beskrivelse af emneressourcen. |
 | Domæne           | schema:dayOfWeek                  |
 | Udfaldsrum       | rdf:langString                    |
