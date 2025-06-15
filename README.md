@@ -9,12 +9,12 @@ For at lette læsbarheden i dokumentet, angives URIer i deres kompakte
 form hvor det er muligt. I en kompakt form er navnerum erstattet af et
 præfiks, eksempelvis som illustreret her:
 
-> Hvis navnerummet:                     http://www.w3.org/ns/org#
+> Hvis navnerummet:              http://www.w3.org/ns/org#
 > 
-> tildeles præfiks:                            org
+> tildeles præfiks:              org
 > 
-> så kan URIen:                                http://www.w3.org/ns/org#OrganizationalUnit
+> så kan URIen:                  http://www.w3.org/ns/org#OrganizationalUnit
 > 
-> angives i kompakt form som:    org:OrganizationalUnit
+> angives i kompakt form som:    org:OrganizationalUnit
 
 Præfiks og navnerum for de anvendte vokabularer er listet herunder.
